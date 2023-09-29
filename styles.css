@@ -1,0 +1,55 @@
+html {
+  background-image: url("img/tech-background.webp");
+  background-size: cover;
+}
+
+body {
+  background-color: white;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana;
+}
+
+h1,
+h2 {
+  font-family: "Gill Sans font";
+  letter-spacing: 1px;
+}
+h2 {
+  margin: 30px auto;
+  margin-top: 50px;
+}
+
+/* h2: top margin 50px
+blue color: #1774bb
+orange color: #f15c2a
+yellow color: #fcb041
+hyperlink: navy color, make bold on hover */
+
+a:hover {
+  font-weight: bold;
+  color: navy;
+}
+
+.orange {
+  color: #f15c2a;
+}
+
+.blue {
+  color: #1774bb;
+}
+
+.yellow {
+  color: #fcb041;
+}
+
+.center {
+  text-align: center;
+}
+
+.center1 {
+  text-align: center;
+}
